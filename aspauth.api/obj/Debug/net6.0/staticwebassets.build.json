@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dnvFgqPyg4b4WTXqsag5IyVRIJqi9+SFoplSmBNO3jk=",
+  "Source": "aspauth.api",
+  "BasePath": "_content/aspauth.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
